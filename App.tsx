@@ -5,7 +5,7 @@ import ShippingScreen from './screens/ShippingScreen';
 import ProfileScreen from './screens/ProfileScreen';
 import WalletScreen from './screens/WalletScreen';
 import BarcodeScreen from './screens/BarcodeScreen';
-import { getTabBarIcon } from './utils/getTabBarIcon'; // Import the utility
+import { getTabBarIcon } from './getTabBarIcon'; // Import the utility
 
 const Tab = createBottomTabNavigator();
 
